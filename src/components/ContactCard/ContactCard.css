@@ -1,0 +1,45 @@
+
+.contact-card{
+    width: 320px;
+    border-radius: 19px;
+    border: none;
+    margin: 10px auto;
+    padding:  0px 15px;
+    line-height: 1%;
+    font-family: 'Inconsolata', sans-serif;
+    font-weight: bold;
+    background-color: #b3dac9;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    position: relative;
+}
+
+.fw-400{
+    font-weight: 400;
+}
+
+.m-10{
+    margin: 10px 5px;
+}
+
+.delete-icon{
+    position: absolute;
+    bottom: 8px;
+    right: 10px;
+    background-color: beige;
+    padding: 5.5px;
+    border-radius: 50%;
+    color: rgba(255, 0, 0, 0.664);
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+}
+.edit-icon{
+    position: absolute;
+    bottom: 42px;
+    right: 10px;
+    background-color: beige;
+    padding: 5.5px;
+    border-radius: 50%;
+    color: rgba(255, 0, 0, 0.664);
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+}
